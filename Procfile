@@ -1,1 +1,1 @@
-web: python index2.py
+web: python verk6b.py
